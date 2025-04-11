@@ -1,4 +1,4 @@
-# 🖥️ Website Template! <br><br>
+# 🖥️ Website Template! <br>
 
 ![Landing Page Preview](Images/preview.png)
 
