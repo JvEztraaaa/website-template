@@ -1,6 +1,6 @@
 # 🖥️ Website Template!
 
-![Landing Page Preview](images/preview.png)
+![Landing Page Preview](Images/preview.png)
 
 This is a simple website template that can be used for future projects. Here I've learned the basics of HTML and CSS. <br>
 
